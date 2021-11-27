@@ -1,0 +1,6 @@
+1:COMBO 1 - 1/2 Mt de Muzzarella + 1 Coca de 2lts:600
+2:COMBO 2 - 1/2 Mt de Pizza Comun + 1 Coca de 2lts:400
+3:COMBO 3 - 1 Chivito al pan con fritas + 1 Coca de 1lt:1000
+4:COMBO 4 - Milanesa Napolitana para 4 + 1 Coca de 2lts:1250
+5:COMBO 5 - Chivito al plato para 2 + 1 Coca de 1lt:800
+6:COMBO 6 - 1/2 Mt de Muzzarella + 2 Faina + 1 Coca de 2lts:900
