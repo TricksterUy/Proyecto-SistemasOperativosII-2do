@@ -61,7 +61,7 @@ do
         done
 
 
-    IMPORTE=$(grep ^$COMBO combos.txt | cut -f3 -d:)
+    IMPORTE=$(grep ^$NUEVOCOMBO combos.txt | cut -f3 -d:)
 	NUEVOIMPORTEFINAL="$(($IMPORTE*$NUEVACANTIDAD))"
 
         VENTA="$CODIGO:$NUEVOTELEFONO:$NUEVOCOMBO:$NUEVACANTIDAD:$NUEVOIMPORTEFINAL:$USER:$FECHA"
